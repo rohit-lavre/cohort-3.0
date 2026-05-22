@@ -4,7 +4,7 @@ This folder contains the **Easy** version of **Assignment Two**.
 
 ## Live Demo
 
-[View Live Website]()
+[View Live Website](https://scalex-clone.vercel.app/)
 
 ## Assignment Brief
 You have to choose any three designs from the given designs and recreate them using **CSS Flexbox** and **Position** properties.
