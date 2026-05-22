@@ -4,7 +4,7 @@ Your task is to choose **any one design** from the 3 shared designs and recreate
 
 ## Live Demo
 
-[View Live Website](https://loome-clone.netlify.app/)
+[View Live Website](https://loome-clone.vercel.app/)
 
 Use:
 
