@@ -4,7 +4,7 @@ This folder contains the **Easy** version of **Assignment Three**.
 
 ## Live Demo
 
-[View Live Website]()
+[View Live Website](https://squid-game-clone.vercel.app/)
 
 ## Assignment Brief
 You have to choose any three designs from the given designs and recreate them using **CSS Flexbox** and **Position** properties.
