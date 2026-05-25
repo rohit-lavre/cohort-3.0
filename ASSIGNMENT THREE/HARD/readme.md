@@ -4,7 +4,7 @@ This folder contains the **Hard** version of **Assignment THREE**.
 
 ## Live Demo
 
-[View Live Website]()
+[View Live Website](https://digital-hunters-weld.vercel.app/)
 
 ## Assignment Brief
 You have to choose any three designs from the given designs and recreate them using **CSS Flexbox** and **Position** properties.
