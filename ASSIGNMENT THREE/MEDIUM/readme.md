@@ -4,7 +4,7 @@ This folder contains the **Medium** version of **Assignment Three**.
 
 ## Live Demo
 
-[View Live Website]()
+[View Live Website](https://sunmall-potato-chips.vercel.app/)
 
 ## Assignment Brief
 You have to choose any three designs from the given designs and recreate them using **CSS Flexbox** and **Position** properties.
